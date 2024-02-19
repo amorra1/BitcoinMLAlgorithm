@@ -9,7 +9,7 @@ This trading algorithm was my first that I developed alongside my team at QUANTT
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b>
-- <b>Python Notbooks</b>
+- <b>Python Notebooks</b>
 - <b>Keras</b>
 - <b>QuantConnect</b>
 - <b>Numpy</b>
