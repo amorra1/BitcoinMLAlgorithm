@@ -1,6 +1,6 @@
 <h1>Machine Learning Bitcoin Trading Algorithm</h1>
 
-<h2>Problem Description</h2>
+<h2>Project Description</h2>
 This trading algorithm was my first that I developed alongside my team at QUANTT. It employs a machine learning neural network approach to inform buy or sell options on Bitcoin from the previous 30 days data.
 <br />
 
